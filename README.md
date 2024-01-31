@@ -18,11 +18,12 @@ This lab differs from other popular ```Cyber Ranges``` in its design and philoso
 **Tested with:**
 
 * Mac OS 13.4
+* Ubuntu 22.04
 * terraform 1.5.7
 
 **Clone this repository:**
 ```
-git clone https://github.com/iknowjason/AutomatedEmulation
+git clone https://github.com/rangerrkm/AutomatedEmulation
 ```
 
 **Credentials Setup:**
